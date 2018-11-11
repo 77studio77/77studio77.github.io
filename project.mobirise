@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "studio77",
-    "currentPage": "index.html",
+    "currentPage": "extremumfato.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,10 +53,10 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "extremumfato.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Extremum Fato - a film by .k. - preview",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
