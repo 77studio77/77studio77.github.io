@@ -48,7 +48,9 @@
     ],
     "uniqCompNum": 6,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/s77-128x124.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
